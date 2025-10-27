@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: Carbonite Mercenary Fix (skills guard)
 ## Notes: Guards GetNumSkillLines / GetSkillLineInfo around BG/merc morph to prevent 132
-## Author: you+chatgpt
+## Author: MRWH1TE117
 ## Version: 1.0
 ## Dependencies: Carbonite
 CarboniteMercFix.lua
